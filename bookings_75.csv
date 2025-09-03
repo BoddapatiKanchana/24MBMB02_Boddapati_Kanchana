@@ -1,0 +1,76 @@
+booking_id,customer_id,hotel_id,booking_date,checkin_date,checkout_date,stay_nights,room_type,booking_channel,payment_method,status,amount,lead_time_days
+1,36,72,2024-01-11,2024-03-11,2024-03-16,5,Standard,App,UPI,Cancelled,1875.0,60
+2,63,72,2024-09-03,2024-10-03,2024-10-09,6,Suite,Travel Agent,Cash,Cancelled,6000.0,30
+3,12,38,2024-08-14,2024-09-27,2024-10-01,4,Standard,Call Center,NetBanking,Completed,15092.77,44
+4,55,71,2024-12-04,2025-01-17,2025-01-20,3,Deluxe,Call Center,NetBanking,Completed,13861.97,44
+5,25,41,2024-05-02,2024-06-05,2024-06-11,6,Suite,Web,UPI,Completed,59810.38,34
+6,68,37,2024-04-12,2024-04-24,2024-05-01,7,Deluxe,Web,NetBanking,Completed,47398.56,12
+7,69,17,2024-10-07,2024-10-10,2024-10-11,1,Suite,Call Center,UPI,Completed,12606.7,3
+8,14,2,2025-08-10,2025-09-09,2025-09-12,3,Deluxe,Travel Agent,NetBanking,Completed,17067.66,30
+9,62,15,2024-03-07,2024-04-07,2024-04-11,4,Standard,App,UPI,Completed,18226.22,31
+10,39,11,2024-09-11,2024-10-16,2024-10-17,1,Deluxe,Web,Cash,Completed,7414.08,35
+11,55,40,2025-08-05,2025-08-08,2025-08-13,5,Suite,App,UPI,Completed,47646.46,3
+12,11,21,2024-09-02,2024-10-07,2024-10-09,2,Standard,Web,Card,Completed,7784.06,35
+13,61,38,2024-02-03,2024-02-21,2024-02-23,2,Suite,Call Center,Cash,Completed,18933.7,18
+14,34,26,2025-03-11,2025-04-14,2025-04-15,1,Standard,Web,NetBanking,Cancelled,375.0,34
+15,10,8,2024-06-18,2024-07-07,2024-07-14,7,Suite,Call Center,Cash,Completed,87169.79,19
+16,52,35,2025-05-27,2025-06-27,2025-07-02,5,Deluxe,App,Card,Cancelled,2500.0,31
+17,42,33,2024-01-27,2024-02-10,2024-02-11,1,Suite,App,NetBanking,Completed,12631.46,14
+18,23,61,2025-06-15,2025-07-13,2025-07-19,6,Deluxe,Web,Cash,Completed,44925.53,28
+19,12,61,2024-12-22,2025-01-12,2025-01-16,4,Deluxe,App,UPI,Completed,31162.04,21
+20,37,52,2025-07-17,2025-08-15,2025-08-16,1,Standard,Call Center,NetBanking,Completed,4102.64,29
+21,52,66,2024-01-02,2024-02-26,2024-03-03,6,Suite,Travel Agent,Cash,Completed,72265.53,55
+22,64,57,2024-02-22,2024-03-10,2024-03-12,2,Suite,Web,NetBanking,Completed,20793.0,17
+23,16,4,2024-09-02,2024-09-12,2024-09-18,6,Deluxe,App,Cash,Completed,32953.54,10
+24,15,60,2024-04-30,2024-06-22,2024-06-28,6,Standard,Travel Agent,NetBanking,Completed,17184.33,53
+25,62,61,2024-09-06,2024-10-11,2024-10-15,4,Standard,Travel Agent,UPI,No-Show,0.0,35
+26,66,18,2024-03-12,2024-04-30,2024-05-03,3,Deluxe,Call Center,NetBanking,Cancelled,1500.0,49
+27,37,39,2025-08-24,2025-10-05,2025-10-10,5,Deluxe,Web,Cash,Completed,24225.62,42
+28,71,70,2025-01-21,2025-03-21,2025-03-25,4,Deluxe,Web,UPI,Completed,23667.81,59
+29,53,6,2024-11-21,2024-12-21,2024-12-27,6,Suite,Travel Agent,Cash,No-Show,0.0,30
+30,20,64,2024-02-07,2024-03-10,2024-03-12,2,Suite,Call Center,Card,Cancelled,1600.0,32
+31,57,13,2025-06-22,2025-06-22,2025-06-26,4,Suite,Web,Cash,Cancelled,4000.0,0
+32,20,10,2025-04-25,2025-05-11,2025-05-18,7,Deluxe,Travel Agent,Card,Cancelled,4375.0,16
+33,69,49,2024-11-20,2025-01-04,2025-01-10,6,Deluxe,App,Card,Completed,46659.6,45
+34,37,30,2024-04-02,2024-04-08,2024-04-12,4,Suite,App,Cash,Completed,30716.58,6
+35,4,6,2024-11-28,2024-12-01,2024-12-08,7,Deluxe,Call Center,NetBanking,Completed,33209.38,3
+36,53,73,2024-07-03,2024-07-14,2024-07-16,2,Standard,Travel Agent,UPI,Completed,7624.74,11
+37,30,60,2024-09-17,2024-10-03,2024-10-07,4,Suite,App,Cash,No-Show,0.0,16
+38,70,21,2024-03-16,2024-05-15,2024-05-19,4,Deluxe,Call Center,Cash,Completed,24784.18,60
+39,39,26,2025-01-28,2025-02-27,2025-03-06,7,Standard,Web,Cash,Completed,26642.76,30
+40,38,3,2025-02-09,2025-02-09,2025-02-12,3,Suite,App,Cash,Cancelled,3600.0,0
+41,37,30,2024-12-26,2025-02-04,2025-02-06,2,Standard,Call Center,UPI,Completed,6484.08,40
+42,6,40,2025-03-27,2025-05-03,2025-05-04,1,Deluxe,Web,Card,No-Show,0.0,37
+43,42,54,2024-06-28,2024-07-06,2024-07-08,2,Suite,Call Center,NetBanking,Cancelled,1600.0,8
+44,33,62,2024-10-29,2024-12-23,2024-12-29,6,Deluxe,App,Cash,No-Show,0.0,55
+45,19,29,2025-02-10,2025-04-02,2025-04-09,7,Suite,Call Center,Card,Cancelled,7000.0,51
+46,2,34,2025-07-03,2025-08-01,2025-08-02,1,Deluxe,Call Center,Cash,Cancelled,500.0,29
+47,48,14,2024-08-27,2024-08-28,2024-09-01,4,Suite,Call Center,UPI,Completed,41083.23,1
+48,60,39,2025-02-22,2025-03-02,2025-03-03,1,Standard,App,NetBanking,No-Show,0.0,8
+49,15,13,2024-08-28,2024-09-05,2024-09-10,5,Deluxe,Travel Agent,NetBanking,Completed,32769.63,8
+50,70,54,2025-08-24,2025-10-09,2025-10-15,6,Standard,Travel Agent,Card,Cancelled,1800.0,46
+51,53,36,2024-02-03,2024-02-26,2024-03-03,6,Standard,Travel Agent,Cash,No-Show,0.0,23
+52,47,13,2025-01-11,2025-03-09,2025-03-14,5,Suite,Call Center,Card,Completed,46898.09,57
+53,16,59,2024-04-03,2024-04-16,2024-04-22,6,Suite,App,Card,Cancelled,7200.0,13
+54,32,17,2025-08-01,2025-08-05,2025-08-07,2,Suite,Web,UPI,Cancelled,2400.0,4
+55,30,43,2024-05-31,2024-07-27,2024-08-03,7,Suite,App,NetBanking,Cancelled,7000.0,57
+56,19,17,2025-07-07,2025-08-27,2025-08-30,3,Standard,App,Card,Completed,13117.25,51
+57,31,42,2024-01-17,2024-02-02,2024-02-04,2,Standard,Web,Cash,Completed,9442.2,16
+58,61,58,2025-01-05,2025-02-11,2025-02-16,5,Standard,Travel Agent,UPI,No-Show,0.0,37
+59,6,67,2024-11-04,2024-12-15,2024-12-19,4,Standard,App,Cash,Cancelled,1500.0,41
+60,55,14,2025-05-17,2025-07-14,2025-07-20,6,Deluxe,App,Card,Completed,34862.5,58
+61,17,36,2025-08-22,2025-10-06,2025-10-11,5,Deluxe,Travel Agent,NetBanking,Completed,38290.7,45
+62,13,15,2025-07-18,2025-09-11,2025-09-17,6,Standard,Travel Agent,Cash,Cancelled,2700.0,55
+63,53,44,2025-04-09,2025-05-05,2025-05-09,4,Suite,App,NetBanking,Completed,41320.86,26
+64,48,20,2025-04-30,2025-05-05,2025-05-06,1,Standard,App,Cash,Completed,3929.1,5
+65,17,72,2024-03-02,2024-04-06,2024-04-11,5,Suite,Call Center,Card,Completed,53736.07,35
+66,55,7,2024-10-21,2024-11-09,2024-11-14,5,Deluxe,App,UPI,Completed,24910.95,19
+67,14,45,2025-07-23,2025-07-30,2025-08-02,3,Deluxe,Web,Cash,Cancelled,1875.0,7
+68,72,4,2024-09-30,2024-10-11,2024-10-12,1,Deluxe,Call Center,NetBanking,Completed,4681.41,11
+69,19,73,2025-02-14,2025-02-23,2025-02-24,1,Suite,App,Card,Cancelled,1000.0,9
+70,28,49,2025-03-05,2025-03-26,2025-03-30,4,Standard,Call Center,NetBanking,Cancelled,1800.0,21
+71,73,11,2024-02-23,2024-03-04,2024-03-06,2,Suite,App,Card,Completed,24777.31,10
+72,63,57,2025-02-28,2025-03-13,2025-03-16,3,Suite,App,NetBanking,Completed,28699.48,13
+73,63,68,2024-11-11,2024-11-25,2024-11-26,1,Deluxe,App,Card,Completed,8167.99,14
+74,18,33,2024-10-23,2024-10-30,2024-11-02,3,Standard,Travel Agent,Cash,Completed,13176.56,7
+75,30,65,2025-07-26,2025-09-06,2025-09-13,7,Deluxe,App,Cash,Cancelled,5250.0,42
